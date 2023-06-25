@@ -3639,14 +3639,13 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
 }
 
 .no-webp .info__bid-inner {
-  background-image: url("../../img/bid-bg.png"); }
+  background-image: url("../img/bid-bg.webp"); }
 
 .info__bid-inner {
   max-width: 580px;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 718px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -5089,9 +5088,9 @@ body[data-aos-easing=ease-in-out-quart] [data-aos] {
   }
 }
 
-.webp .info { background-image: url(../../img/bg-info.webp); }
+.webp .info { background-image: url(../img/bg-info.png); }
 
-.webp .info__bid-inner { background-image: url(../../img/bid-bg.webp); }
+.webp .info__bid-inner { background-image: url(../img/bid-bg.png); }
 
 .webp .auctions { background-image: url(../../img/auctions-bg.webp); }
 
